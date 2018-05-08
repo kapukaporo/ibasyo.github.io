@@ -1,1 +1,8 @@
-p{font-size: 25px;}
+p{
+	font-size: 2.1em;
+	text-align:center;
+}
+
+.btn {
+	font-size: 2em;
+}
